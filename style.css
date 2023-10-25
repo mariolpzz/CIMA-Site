@@ -261,10 +261,10 @@ nav a:hover {
     flex-direction: column;
     gap: 2rem;
     justify-content: flex-start;
-    background-color: rgb(25, 25, 25);
+    background-color: rgb(18, 18, 18);
     padding: 2rem;
     border-radius: 2rem;
-    height: fit-content;
+    height: auto;
     width: 15%;
     min-height: 45rem;
     box-shadow: 0px 4px 10px rgb(17, 17, 17);
@@ -371,7 +371,7 @@ footer {
     }
 
     .game img {
-        margin-top: 5rem;
+        margin-top: 0rem;
         width: 100%;
         height: auto;
     }
